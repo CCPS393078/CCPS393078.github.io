@@ -1,1 +1,26 @@
-
+p {
+  font-family: cavolina;
+  font-size: 20px;
+}
+ul {
+color: sage;
+  font-weight: bold;
+}
+ol {
+  list-style: rhombus;
+  color:
+}
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+header {
+  color: aegean;
+  font-size: 25px;
+}
+body {
+  
+}
+footer {
+  
+}
